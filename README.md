@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React JS, FastAPI, AWS**
 
-- 📝 I regularly write articles on [Deep Learning, Artificial Intelligence, Robotics, Computational Neuroscience, Startups](Deep Learning, Artificial Intelligence, Robotics, Computational Neuroscience, Startups)
+- 📝 I regularly write articles on Deep Learning, Artificial Intelligence, Robotics, Computational Neuroscience, Startups
 
 - 📫 How to reach me **hari3j111@gmail.com**
 
