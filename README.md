@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Autonomous Industrial Inspection Rover**
+- 🔭 I’m currently working on **Multiple Projects**
 
 - 🌱 I’m currently learning **React JS, FastAPI, AWS**
-
-- 👯 I’m looking to collaborate on **Hobbyistt**
 
 - 📝 I regularly write articles on [Deep Learning, Artificial Intelligence, Robotics, Computational Neuroscience, Startups](Deep Learning, Artificial Intelligence, Robotics, Computational Neuroscience, Startups)
 
